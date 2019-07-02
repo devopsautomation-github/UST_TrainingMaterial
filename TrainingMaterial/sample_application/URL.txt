@@ -1,0 +1,16 @@
+Application URL used during training:
+
+Demo Application
+http://newtours.demoaut.com/mercurywelcome.php
+https://opensource-demo.orangehrmlive.com/
+http://demo.guru99.com/test/delete_customer.php
+https://letskodeit.teachable.com/p/practice
+http://demo.guru99.com/test/drag_drop.html
+http://jqueryui.com/resources/demos/droppable/default.html
+
+
+Live & Complex Application
+https://www.google.com/
+https://www.flipkart.com/
+https://www.amazon.in/
+https://paytm.com/
